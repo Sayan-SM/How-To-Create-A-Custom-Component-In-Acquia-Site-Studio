@@ -1,0 +1,8 @@
+name: React component
+category: cpt_cat_example
+preview_image: preview.png
+js:
+reactApp/build/static/js/main.js: {}
+CSS:
+reactApp/build/static/css/main.css: {}
+html: reactApp/build/index.html
